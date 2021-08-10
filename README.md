@@ -24,9 +24,8 @@ anything yet. Let's get to work!
 The first test is telling us that `currentUser` is not defined. Let's go to
 `index.js` and write the following code:
 
-```js
 const currentUser = 'Grace Hopper';
-```
+
 
 > **Note**: Generally, when the tests ask you to define something, you want to
 > define it exactly as indicated in the test. But in this case, you don't have
